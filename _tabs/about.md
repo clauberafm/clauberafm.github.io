@@ -6,7 +6,7 @@ order: 4
 
 ### Quem sou eu?
 
-<p align = justify> Olá! Me chamo Cláuber e sempre fui um entusiasta no tema tecnologia. Apaixonado por Linux, Cloud Computing e Tecnologia Musical (<i>synths</i>, <i>sampling</i> e <i>VST's</i>), o interesse nesse universo só aumentou, motivo pelo qual me tornei <strong>Analista de Sistemas</strong>. </p>
+<p align = justify> Olá! Me chamo Cláuber e sempre fui um entusiasta no tema tecnologia. Apaixonado por Linux, Cloud Computing e Tecnologia Musical (<i>synths</i>, <i>sampling</i> e <i>VST's</i>), o interesse nesse universo só aumentou com o tempo, motivo pelo qual me tornei <strong>Analista de Sistemas</strong>. Me orgulho em dizer que zerei a vida (literalmente) ao realizar uma transição de carreira relativa para me jogar de cabeça na área tech.</p>
 
 <p align = justify> No espectro da tecnologia da informação, tenho a Cloud Computing como foco de trabalho e estudo, especialmente pelo seu caráter facilitador. Buscando testar meus conhecimentos acerca do tema e devido ao contato inicial, bem como pelo maior aprofundamento na plataforma Azure, conquistei a certificação <a href="https://www.credly.com/badges/818f2a24-88ae-49c5-a73f-e37a2feafc2a/public_url" target="_blank">Microsoft Azure Fundamentals</a> após ser aprovado no exame AZ-900: </p>
 
@@ -33,7 +33,7 @@ Assim, desenvolvi até então as seguintes habilidades:
 
 ### Vamos nos conectar?
 
-<p align = justify> Sou um usuário bastante ativo no Twitter e sempre estou andando pelo <a href="https://github.com/clauberafm" target="_blank">GitHub</a>, mas você também pode me encontrar no LinkedIn. </p>
+<p align = justify> Sou um usuário bastante ativo no <a href="https://twitter.com/claubermelo" target="_blank">Twitter</a> e sempre estou andando pelo <a href="https://github.com/clauberafm" target="_blank">GitHub</a>, mas você também pode me encontrar no LinkedIn. </p>
 
 <p align = justify> Além das redes sociais supramencionadas, a melhor forma de contato direto é através do meu e-mail levothyroxinecaf777@outlook.com. Sinta-se livre para enviar uma DM, e-mail ou qualquer mensagem inbox ;) </p>
 

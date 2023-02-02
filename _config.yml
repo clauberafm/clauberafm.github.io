@@ -21,7 +21,7 @@ timezone: America/Recife
 
 title: Clauber Melo                          # the main title
 
-tagline: A cloudy techguy who loves linux and VSTs   # it will display as the sub-title
+tagline: Blog onde falo de linux e cloud computing à tecnologia musical e VST   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A personal blog that covers tech universe, including automation, cloud, linux and music technology.
@@ -33,7 +33,7 @@ github:
   username: clauberafm             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: claubermelo            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
   email: levothyroxinecaf777@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/claubermelo      # change to your twitter homepage
     - https://github.com/clauberafm       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
