@@ -1,5 +1,5 @@
 ---
-title: Uma dúvida de boas-vindas -> "apt" ou "apt-get"?
+title: Uma dúvida de boas-vindas -> apt ou apt-get?
 date: 2023-02-01 04:50:20 +0500
 author: <author_id>
 categories: [Linux, Infraestrutura]
